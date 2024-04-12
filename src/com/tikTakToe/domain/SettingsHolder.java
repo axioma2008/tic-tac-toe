@@ -2,18 +2,13 @@ package com.tikTakToe.domain;
 
 import com.tikTakToe.servises.PatternChecker;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Arrays;
+import java.io.*;
 import java.util.Scanner;
-import java.io.File;
 
 public class SettingsHolder {
 
     public int[] setSettings() {
-//        GameManager gameManager = new GameManager();
+
         System.out.println("Введите ширину и высоту поля через пробел");
         Scanner scanner = new Scanner(System.in);
         String strScanner;
@@ -87,18 +82,7 @@ public class SettingsHolder {
         } catch (Exception e) {
             System.err.println(e);
         }
-//        try (BufferedReader reader = new BufferedReader(new FileReader("settings.txt"))) {
-//            String line;
-//            while ((line = reader.readLine()) != null) {
-//                String[] numbers = line.split(" ");
-//                boardSettings = new int[numbers.length];
-//                for (int i = 0; i < numbers.length; i++) {
-//                    boardSettings[i] = Integer.parseInt(numbers[i]);
-//                }
-//            }
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
+
         return boardSettings;
     }
 }

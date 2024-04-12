@@ -1,13 +1,12 @@
 package com.tikTakToe.domain;
 
-import com.tikTakToe.tests.TestHolder;
-import com.tikTakToe.visualizer.Board;
 import com.tikTakToe.servises.GameManager;
 import com.tikTakToe.servises.PatternChecker;
+import com.tikTakToe.tests.TestHolder;
+import com.tikTakToe.visualizer.Board;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 
@@ -18,12 +17,12 @@ public class GameStarter {
         boolean isGameFinish = false;
 
         GameManager gameManager = new GameManager();
-        TestHolder testHolder = new TestHolder();
+
         Board board = new Board(width, height);
         Scanner scanner = new Scanner(System.in);
         GameSaver gameSaver = new GameSaver();
 
-//        testHolder.boardForTestRows(board.getMyBoard(), board.getWidth());
+
         gameManager.drawBoard(board.getMyBoard(), board.getWidth(), board.getHeight());
 
         while (isGameFinish != true) {

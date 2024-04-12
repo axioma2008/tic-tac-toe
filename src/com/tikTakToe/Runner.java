@@ -2,9 +2,6 @@ package com.tikTakToe;
 
 
 import com.tikTakToe.domain.GameSaver;
-import com.tikTakToe.domain.GameStarter;
-import com.tikTakToe.domain.PlayerSwapper;
-import com.tikTakToe.domain.SettingsHolder;
 import com.tikTakToe.servises.GameManager;
 import com.tikTakToe.servises.PatternChecker;
 import com.tikTakToe.visualizer.Menu;
