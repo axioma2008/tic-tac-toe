@@ -28,16 +28,28 @@
  <p>⬇️
  
 Потом нажмите извлечь все</p>
- <p>⬇️</p>
+ <p>⬇️ 
+   
+Заходим в папку(tic-tac-toe-master)</p>
 <img width="292" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/2ec66625-31d6-4eda-a5f3-44c52c3a1d9d">
- <p>⬇️</p>
+ <p>⬇️ 
+ 
+Заходим в папку(out)</p>
 <img width="416" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/451419a0-39fb-4ed6-8a75-d9697c1879f0">
- <p>⬇️</p>
+ <p>⬇️
+ 
+Заходим в папку(artifacts)</p>
 <img width="394" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/7860a8a4-1c89-4d75-9c02-b2ef896728dc">
- <p>⬇️</p>
+ <p>⬇️
+
+Заходим в папку(tic_tac_toe_jar)
+ </p>
 <img width="317" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/5a313a5a-340f-4939-98e3-aa51c8337166">
- <p>⬇️</p>
-<img width="401" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/f6864b46-3547-4741-ab52-a44db88b3e79">
+ <p>⬇️
+ 
+ Открываем TicTacToe.bat</p>
+<img width="412" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/240cd3ff-87e5-418c-a34e-28a815a30989">
+
 
 
  <p><br><img width="314" alt="image" src="https://github.com/axioma2008/tic-tac-toe/assets/142029476/00a84ee3-698f-4587-b61b-1426b36ab3d1"></p>
